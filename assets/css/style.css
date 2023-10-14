@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+html{
+    scroll-behavior: smooth;      
+}
+
+body{
+    height: 2500px; 
+    font-family: 'Poppins', sans-serif;    
+}
+
